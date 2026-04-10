@@ -1,0 +1,99 @@
+{
+  "reality_id": "reality_000",
+  "title": "The City of Glass Weather",
+  "canon_status": "ACTIVE",
+  "present_summary": "A coastal city in which weather is archived, traded, and enforced through civic ritual. Symbolic and linguistic resonance can alter environmental and social conditions.",
+  "core_premise": "Meaning can become environment if enough resonance accumulates.",
+  "world_layers": {
+    "physical": [
+      "Dense coastal city with mirrored towers, tram lines, salt canals, and fog bridges",
+      "Weather-sensitive architecture changes opacity depending on atmospheric pressure and public sentiment",
+      "Restricted harbor under ritual weather law"
+    ],
+    "social": [
+      "Weather Clerks regulate legal atmospheric release",
+      "Choir of Measures audits tonal and emotional instability",
+      "Rag Market handles symbolic contraband",
+      "Harbor Union resists ritual weather control"
+    ],
+    "symbolic": {
+      "glass": ["memory", "storage", "reflection", "fragility"],
+      "rain": ["disclosure"],
+      "fog": ["ambiguity", "mercy", "concealment", "delayed consequence"],
+      "lightning": ["judgment", "revelation", "irreversible decision"],
+      "wind": ["rumor", "mobility", "contagion of meaning"]
+    },
+    "metaphysical": [
+      "Repetition increases resonance",
+      "Public ritual stabilizes law-like reality",
+      "Songs, vows, chants, and recurring phrases can produce measurable effects",
+      "High resonance can shift symbolic conditions into material or social reality"
+    ]
+  },
+  "locations": [
+    "Archive of Atmospheres",
+    "Choir Hall of Measures",
+    "Salt Tram Loop",
+    "Rag Market",
+    "Hollow Docks",
+    "Ninth Fog Bridge",
+    "Mirror Quarter"
+  ],
+  "factions": [
+    {
+      "name": "Weather Clerks",
+      "function": "Custodians of licensed atmospheric release",
+      "stability": "strained"
+    },
+    {
+      "name": "Choir of Measures",
+      "function": "Auditors of tonal and emotional instability",
+      "stability": "guarded"
+    },
+    {
+      "name": "Rag Traders",
+      "function": "Black-market handlers of symbolic residue",
+      "stability": "adaptive"
+    },
+    {
+      "name": "Harbor Union",
+      "function": "Labor force resisting weather restrictions",
+      "stability": "agitated"
+    }
+  ],
+  "active_tensions": [
+    "Illegal weather alterations are spreading through poorer districts",
+    "The Choir suspects recent songs are bypassing normal resonance thresholds",
+    "The Harbor Union wants access to storm-release schedules",
+    "Citizens hear prior street names during fog events",
+    "Some legal weather ledgers contain unrecognized handwriting"
+  ],
+  "known_transformation_scars": [
+    "Some windows reflect an older skyline during damp mornings",
+    "The word 'mercy' frosts nearby glass from the inside",
+    "Tram bells sometimes ring in obsolete rhythms"
+  ],
+  "weather_regime": {
+    "morning": "licensed fog",
+    "noon": "controlled clear interval",
+    "after_dusk": "rain by permit only"
+  },
+  "narrative_tone": [
+    "elegant",
+    "uncanny",
+    "civic",
+    "emotionally charged",
+    "brittle"
+  ],
+  "protagonist_continuity_mode": {
+    "memory": "persistent_by_default",
+    "body": "persistent_by_default"
+  },
+  "resonance_history_refs": [],
+  "unresolved_anomalies": [
+    "Residual alternate skyline reflections",
+    "Language-triggered glass response",
+    "Obsolete tram rhythm recurrence"
+  ],
+  "immediate_story_pressure": "The city is nearing a threshold event where symbolic weather control may exceed municipal containment."
+}
