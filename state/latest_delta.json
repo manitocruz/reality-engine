@@ -1,0 +1,31 @@
+{
+  "transformation_id": null,
+  "approval_status": "NO_PENDING_OR_APPROVED_DELTA_YET",
+  "input_summary": null,
+  "decoded_patterns": [],
+  "affordance_matches": [],
+  "selected_operator_set": [],
+  "resonance_depth": null,
+  "delta_summary": null,
+  "changed_elements": [],
+  "persisted_elements": [
+    "Mira Vale memory continuity",
+    "Mira Vale body continuity",
+    "Iven Thorne memory continuity",
+    "Iven Thorne body continuity"
+  ],
+  "remapped_elements": [],
+  "scars": [],
+  "protagonist_continuity": {
+    "mira_vale": {
+      "memory": "persistent",
+      "body": "persistent"
+    },
+    "iven_thorne": {
+      "memory": "persistent",
+      "body": "persistent"
+    }
+  },
+  "anomaly_notes": [],
+  "storyteller_handoff": "No approved transformation has been applied yet."
+}
